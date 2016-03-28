@@ -35,8 +35,8 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 ogp:
-	  fb:
-	    app_id: 430274870491769
+   fb:
+     app_id: 430274870491769
 	    
 gems: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
