@@ -1,18 +1,17 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: DongJu Lee
+description: '동주's 성장 블로그'
 url: 'http://noble17.github.io'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Lee Dong Ju'
+  email: noble8543@gmail.com
+  twitter_username: 
+  facebook_username: dongju1117@nate.com
+  github_username:  noble17
 
 defaults:
   -
