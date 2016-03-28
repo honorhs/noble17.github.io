@@ -2,6 +2,7 @@
 title:  "jekyll과 github의 만남!!"
 date:   2016-01-12 15:04:23
 categories: [jekyll]
+comments: true
 tags: [jekyll]
 ---
 
