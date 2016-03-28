@@ -1,3 +1,10 @@
+---
+title:  "jekyll과 github의 만남!!"
+date:   2016-01-12 15:04:23
+categories: [jekyll]
+tags: [jekyll]
+---
+
 # Windows에서 Jekyll이용해 Github블로그 만들기
 
 Github에 블로그를 만들어 보자. 이를 위해 Windows에 jekyll 환경을 구축해 jekyll 테마를 적용하고, Github에 올려 블로그를 운영하는 방법을 정리해 본다. 그 첫번째 순서로 이 글은 Windows에 jekyll 환경을 구축해서 jekyll 테마를 적용하는 것을 설명한다.
