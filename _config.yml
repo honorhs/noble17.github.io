@@ -25,7 +25,7 @@ paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
-
+comments: true
 #facebook
 app_id:              430274870491769
 
