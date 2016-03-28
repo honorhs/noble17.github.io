@@ -26,17 +26,17 @@ permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
 
-#facebook
-app_id:              430274870491769
+comments :
+    provider : disqus
+    disqus :
+      short_name : dongju1117
 
 kramdown:
   # use Github Flavored Markdown
   input: GFM
   # do not replace newlines by <br>s
   hard_wrap: false
-ogp:
-   fb:
-     app_id: 430274870491769
+
      
 gems: ['jekyll-paginate']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
