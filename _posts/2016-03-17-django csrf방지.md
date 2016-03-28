@@ -6,9 +6,9 @@ comments: true
 tags: [django]
 ---
 
-csrf(Cross-site request forgery) 
-- 사이트간 요청위조/ 웹사이트 취약점 공격의 하나로, 사용자가 자신의 의지와는 상관없이 공격자가 의도한 행위를 특정 웹사이트에 요청하게 하는 공격을 말한다.
+csrf(Cross-site request forgery)<br> 
 
+- 사이트간 요청위조/ 웹사이트 취약점 공격의 하나로, 사용자가 자신의 의지와는 상관없이 공격자가 의도한 행위를 특정 웹사이트에 요청하게 하는 공격을 말한다.
 - @csrf_exempt 태그를 붙혀준다. 
 - django 1.2부터 post로 값을 전송시 CSRF 보안 목적으로 추가된 것이라고 한다.
 - POST 전송시 붙히지 않으면 오류발생
