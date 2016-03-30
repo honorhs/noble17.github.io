@@ -4,7 +4,7 @@ description: '동주의 성장 블로그'
 url: 'http://noble17.github.io/'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+disqus_shortname: 'dongju1117'
 
 author:
   name: 'Lee Dong Ju'
@@ -26,10 +26,10 @@ permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
 
-comments :
-    provider : disqus
-    disqus :
-      short_name : dongju1117
+#comments :
+#    provider : disqus
+#    disqus :
+#      short_name : dongju1117
 
 kramdown:
   # use Github Flavored Markdown
