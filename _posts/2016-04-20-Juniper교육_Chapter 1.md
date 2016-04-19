@@ -1,5 +1,5 @@
 ---
-title:  "[Juniper교육-Chapter 1]Layer 2 Switching"
+title:  "Juniper교육-Chapter 1-Layer 2 Switching"
 date:   2016-04-20
 categories: [교육]
 comments: true
