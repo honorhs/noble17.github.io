@@ -1,9 +1,9 @@
 ---
-title:  "Juniper교육-Chapter 1-Layer 2 Switching"
+title:  "[juniper교육]Layer2 Switch"
 date:   2016-04-20
 categories: [교육]
 comments: true
-tags: [juniper] 
+tags: [juniper]
 ---
 
 교육에 들어가기 전 OSI 7계층에 중에 `네트워크계층`과 `데이터링크계층`이 주가된다는 것을 강조하셨다.<br>
