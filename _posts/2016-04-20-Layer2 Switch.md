@@ -1,9 +1,9 @@
 ---
-title: "[juniper교육]Layer2 Switch"
+title: "인프라운영에 배ffffff치 후, 첫 주간회의"
 date: 2016-04-20
-categories: [juniper교육]
+categories: [용어정리]
 comments: true
-tags: [juniper]
+tags: [용어, network]
 ---
 
 교육에 들어가기 전 OSI 7계층에 중에 `네트워크계층`과 `데이터링크계층`이 주가된다는 것을 강조하셨다.<br>
