@@ -3,7 +3,7 @@ title:  "[후니의 시스코네트워킹]Network and Cable"
 date:   2016-04-12
 categories: [후니의 네트워크]
 comments: true
-tags: [후니]
+tags: [책, network, cisco]
 ---
 
 네트워크를 알아가려면 기본적인 용어 정리가 필요한 것 같아 정리해 봤다.
